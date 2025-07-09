@@ -7,7 +7,9 @@ Email Me 👉 ✉️ **manvendrakumar0023@gmail.com** for collaboration, project
 - 🌱 **I’m currently learning:** MERN STACK
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 😄 **Pronouns:** Mane
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me.
+
+  <img align="right" alt="coding" width="300" scr="![image](https://github.com/user-attachments/assets/7a231bfe-cff9-438f-a9e7-9d736830d016)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manvendra0023&label=Profile%20views&color=0e75b6&style=flat" alt="manvendra0023" /> </p>
 
