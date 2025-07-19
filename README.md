@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **manvendrakumar0023@gmail.com** for collaboration, project
 - 😄 **Pronouns:** Mane
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me.
 
-  <img align="right" alt="coding" width="300" scr="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxwYjN4c2U1bzEyMWNjeWNwcXRzOGRpcXk1ajZmOWJ0MGRmbzJsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif">
+  <img align="right" alt="coding" width="300" scr="https://tenor.com/view/work-computer-typing-busy-gif-17302654">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manvendra0023&label=Profile%20views&color=0e75b6&style=flat" alt="manvendra0023" /> </p>
 
