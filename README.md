@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **manvendrakumar0023@gmail.com** for collaboration, project inquiries, or Anything Else. 😊😊
 
 - 🔭 **I’m currently Studying:** Computer Science and Engineering
-- 🌱 **I’m currently learning:** MERN STACK
+- 🌱 **Full Stack Developer** 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 😄 **Pronouns:** Mane
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me.
